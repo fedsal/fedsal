@@ -1,5 +1,5 @@
 # Hello 👋 
-My name is Fede, I'm from Argentina and I'm a Android developer. I'm Currently working at [@mercadolibre](https://github.com/mercadolibre) as Jr Android Dev.
+My name is Fede, I'm from Argentina and I'm a Android developer. I'm Currently working at [@GlobalLogic](https://github.com/Globallogic-inc) as Ssr Engineer.
 
 # Technologies and tools 🛠️
 <img src="https://img.shields.io/badge/Kotlin-BE27E9?&style=for-the-badge&logo=kotlin&logoColor=white"></img> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img>
